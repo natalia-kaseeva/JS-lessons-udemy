@@ -18,7 +18,7 @@ const personalMovieDB = {
     movies: {},
     actors: {},
     genres: [],
-    privat: false
+    private: false
 };
 
 for (let i = 0; i < 2; i++) {
